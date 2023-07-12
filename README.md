@@ -9,6 +9,8 @@
 
 - 🚀 Acompanhem meu Linkedin! [https://www.linkedin.com/in/joao-gabriel-soares-rodrigues/](https://www.linkedin.com/in/joao-gabriel-soares-rodrigues/)
 
+- 📚 Portfólio de Projetos: https://sites.google.com/d/1ikCEFL45FpZp7p6WZYxv3JosNf3FkehE/p/190TDoElBx14ee9d8VtXcxgS2XHvbuZx-/edit
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/joao-gabriel-soares-rodrigues/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joao-gabriel-soares-rodrigues/" height="30" width="40" /></a>
