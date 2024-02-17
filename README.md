@@ -1,15 +1,6 @@
 <h1 align="center">Olá👋, Eu sou João Gabriel</h1>
-<h3 align="center">Sou Analista de Dados aqui no Brasil</h3>
+<h3 align="center"></h3>
 
-- 🌱 Atualmente estou aprendendo **Modelagem de Dados, Power BI, SQL e Databricks**
-
-- 📊 Me pergunte sobre **SQL, Excel, Power BI, Modelagem Dimensional, Datawarehouse**
-
-- 📫 Como me encontrar: **jgsoarespsico@icloud.com**
-
-- 🚀 Acompanhem meu Linkedin! [https://www.linkedin.com/in/joao-gabriel-soares-rodrigues/](https://www.linkedin.com/in/joao-gabriel-soares-rodrigues/)
-
-- 📚 Portfólio de Projetos: https://sites.google.com/d/1ikCEFL45FpZp7p6WZYxv3JosNf3FkehE/p/190TDoElBx14ee9d8VtXcxgS2XHvbuZx-/edit
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
